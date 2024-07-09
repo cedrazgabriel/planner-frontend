@@ -1,0 +1,1 @@
+# Planner: Um aplicativo para planejamento de viagem.
